@@ -1,4 +1,4 @@
-# Second Week - Introduction Template
+# Data Science - Jun ki Kwon (Peter)
 ## Template for idea for Intro
 # Table of Contents:
 * Abstract
